@@ -8,7 +8,7 @@ Cloud Architect, Python & Kubernetes nerd!
 Title: Lead Architect
 Role: role description
 
-#### Projects (Public-facing projects have clickable links)
+#### Projects (Public-facing projects will have clickable links)
 Note: This is meant to be a short summary
 - Typical Project #1
   - Usually something about web backend development, designed for serverless execution
