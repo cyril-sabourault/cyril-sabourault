@@ -8,8 +8,9 @@ Cloud Architect, Python & Kubernetes nerd!
 Title: Lead Architect
 Role: role description
 
-#### Projects (Public-facing projects have clickable links)
-Note: This is meant to be a short summary. [Much more info on my projects here](https://github.com/Limezest/Limezest/blob/main/about/projects.md)
+#### Projects (Public-facing projects will have clickable links)
+Note: This is meant to be a short summary
+
 - Typical Project #1
   - Usually something about web backend development, designed for serverless execution
   - Tech: Python Flask, openapi, App Engine, Identity Aware Proxy, Workspace's Admin Directory SDK integration
