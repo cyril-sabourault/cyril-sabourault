@@ -5,7 +5,7 @@ Cloud Architect, Python & Kubernetes nerd!
 ### Devoteam G Cloud
 *September 2014 - Now*
 
-Title: Lead Architect
+Title: Lead Architect  
 Role: role description
 
 #### Projects (Public-facing projects will have clickable links)
