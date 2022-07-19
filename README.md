@@ -4,7 +4,7 @@
 [![CNCF Certified][CNCF Badge]][CNCF Credentials]
   
 Lead Architect for Digital Lab at [Devoteam G Cloud](https://gcloud.devoteam.com/)  
-Knows all kinds of things about IAM, Billing and Governance on GCP!
+Ask me about IAM, Billing and Governance on GCP!
 
 <!--
 More about me:
